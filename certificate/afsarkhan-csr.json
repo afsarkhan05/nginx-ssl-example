@@ -1,0 +1,17 @@
+{
+  "CN": "*.afsarkhan.com",
+  "hosts": ["afsarkhan.com", "www.afsarkhan.com"],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "US",
+      "L": "New York",
+      "O": "Afsar Khan for Example",
+      "OU": "Development",
+      "ST": "NY"
+    }
+  ]
+}
